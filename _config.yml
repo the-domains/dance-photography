@@ -1,7 +1,7 @@
 name: Dance Photography
 favicon: null
-layout_spectrum: 0.27598319691605866
-typography_spectrum: 0.4523051190190017
+layout_spectrum: 0.37046
+typography_spectrum: 0.14807
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#090b0a'
+    - '#9ca4b8'
+    - '#e3ebff'
+    - '#757c90'
+    - '#5d0c13'
   brandStrength: 0.30535100190900266
   lightness: 0.3505435527767986
   saturation: 0.6978576499968767
