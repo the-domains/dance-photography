@@ -1,28 +1,40 @@
-name: Dance Photography
 favicon: null
-layout_spectrum: 0.37046
-typography_spectrum: 0.14807
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Dance Photography
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#090b0a'
-    - '#9ca4b8'
-    - '#e3ebff'
-    - '#757c90'
-    - '#5d0c13'
-  brandStrength: 0.30535100190900266
-  lightness: 0.3505435527767986
-  saturation: 0.6978576499968767
-  rhythmicContrast: 0.39751340076327324
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.3505436
+  brandColors:
+    - '#000000'
+    - '#925A66'
+    - '#422720'
+    - '#D0BCB4'
+    - '#2F4B7F'
+  rhythmicContrast: 0.3975134
+typography_spectrum: 1
+layout_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
