@@ -1,4 +1,8 @@
-layout_spectrum: 1
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.3125
+  saturation: 1
   brandStrength: 0.5
-  lightness: 0.3505436
+  lightness: 1
   brandColors:
     - '#726964'
     - '#0C0807'
     - '#C9B6AF'
     - '#AF0F17'
     - '#F1E4DD'
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 typography_spectrum: 0.0358423
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Dance Photography
