@@ -1,8 +1,4 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+name: Dance Photography
 opengraph:
   image: null
   type: null
@@ -21,20 +17,24 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.5358423
+  saturation: 1
   brandStrength: 1
-  lightness: 0.5089605
+  lightness: 1
   brandColors:
     - '#000000'
     - '#995F6E'
     - '#D2BFB8'
     - '#324E81'
     - '#B28970'
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 typography_spectrum: 0.0358423
-layout_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-name: Dance Photography
+favicon: null
+layout_spectrum: 1
